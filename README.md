@@ -31,4 +31,4 @@ Data-driven analysis of credit risk and loan performance using financial dataset
 - **Upwork:** [https://www.upwork.com/freelancers/~01c829bb2ba8c1b51b?mp_source=share]
 - **Email:** [migue.m.v2011@gmail.com]
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-angel-03&show_icons=true&theme=vibrant)
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-angel-03&show_icons=true)
