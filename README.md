@@ -1,7 +1,7 @@
 # Miguel A. Martinez
-### Bilingual Operations & Data Analyst | Business Administrator
+### Bilingual Business Intelligence Analyst | Business Administrator
 
-Business Administrator and Data Analyst focused on transforming complex datasets into actionable business strategies. My professional approach combines strategic management with technical expertise in data engineering and process automation to drive financial and operational results.
+Business Administrator and Business Intelligence Analyst focused on transforming complex datasets into actionable business strategies. My professional approach combines strategic management with technical expertise in data engineering and process automation to drive financial and operational results.
 
 ### Professional Profile
 - Specialized in Market Intelligence and Business Analytics.
@@ -16,6 +16,12 @@ Business Administrator and Data Analyst focused on transforming complex datasets
 - **Methodologies:** CRISP-DM, Financial Modeling, Strategic Planning.
 
 ### Featured Projects
+
+#### [OptiStock-Inventory-Optimization](https://github.com/miguel-angel-03/OptiStock-Inventory-Optimization.git)
+Inventory replenishment simulator using the M5 Forecasting dataset to determine optimal EOQ and safety stock levels.
+- **Tech Stack:** Python, Tableau, Pandas/NumPy.
+- **Key Outcome:** Developed a dynamic dashboard that minimizes Total Inventory Costs (TIC) by 12% through optimized procurement strategies.
+
 #### [Market-Sizing-Wellness-Analytics](https://github.com/miguel-angel-03/Market-Sizing-Wellness-Analytics.git)
 Comprehensive study to quantify the market potential for a subscription-based business model in Colombia.
 - **Tech Stack:** Python, Google BigQuery, Power BI.
